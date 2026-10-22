@@ -1,6 +1,8 @@
-# raytracer
+# raytrace
 
-A raytracer from scratch built in C 
+A raycaster from scratch built in C 
+
+(I confused raytracer and raycaster so the names are all messed up 😭)
 
 ---
 
